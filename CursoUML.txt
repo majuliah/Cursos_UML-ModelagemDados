@@ -1,1 +1,24 @@
-Curso pode ser encontrado:
+<img src="https://media3.giphy.com/media/5wWf7HapUvpOumiXZRK/giphy.gif?cid=ecf05e47goyphgtkolcro36ik9dlg8e4xbtr2ngu4diw87xx&rid=giphy.gif&ct=g" style="zoom: 67%;" />
+
+# 					Curso Modelagem de Dados - UML
+
+
+
+Sessão 1: Introdução
+
+## Sessão 2: Identificação de conceitos e atributos 🥷
+
+#### Modelo Conceitual: ele descreve a estrutura das informações cujo sistema irá gerenciar. Isso significa que as informações que o sistema gerenciará precisa estar organizada em entidades associadas entre elas. Ele divide informações em entidades e como elas estão armazenadas. 
+
+#### Uma análise de sistema visa resolver o problema que temos em questão. Um modelo conceitual é um modelo de domínio em nível de análise pois pertence ao escopo do PROBLEMA e não ao escopo da solução. Também é independente de paradigma e tecnologia, embora a UML seja um paradigma voltado a orientação a objetos. Um modelo de domínio descreve as entidades do domínio e as inter-relações entre elas.
+
+
+
+
+
+  
+
+
+
+
+
