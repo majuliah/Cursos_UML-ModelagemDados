@@ -12,7 +12,13 @@ Sessão 1: Introdução
 
 #### Uma análise de sistema visa resolver o problema que temos em questão. Um modelo conceitual é um modelo de domínio em nível de análise pois pertence ao escopo do PROBLEMA e não ao escopo da solução. Também é independente de paradigma e tecnologia, embora a UML seja um paradigma voltado a orientação a objetos. Um modelo de domínio descreve as entidades do domínio e as inter-relações entre elas.
 
+![](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/conceitos,%20atributos%20e%20imagens.png?raw=true)
 
+#### Um conceito é qualquer entidade que tenha um significado para o sistema e que necessite de armazenamento de dados. Cliente, pedido, produto, fornecedor  etc. são exemplos de conceitos. Ele deve ser uma entidade coesa, não se deve misturar informações distintas em um mesmo conceito.
+
+#### Atributos: são as características dos atributos. Não pode ser multivalorado e nem composto, como no caso de um endereço. Cada conceito deve ter um atributo identificador, ou uma chave primária. 
+
+#### 
 
 
 
