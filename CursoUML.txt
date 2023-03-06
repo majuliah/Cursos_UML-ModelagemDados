@@ -18,7 +18,35 @@ Sessão 1: Introdução
 
 #### Atributos: são as características dos atributos. Não pode ser multivalorado e nem composto, como no caso de um endereço. Cada conceito deve ter um atributo identificador, ou uma chave primária. 
 
-#### 
+------
+
+## Associação 🪢
+
+### Instância: Cada ocorrência do conceito. É um objeto criado a partir da classe, se pegarmos uma comparação com POO. 
+
+#### Associações: É um relacionamento estático entre os conceitos: Exemplo - É preciso criar  um sistema para armazenar infos de pessoas e carros e precisamos saber quem é dono de cada carro. Neste exemplo temos conceitos, atributos e associações. Dessa forma:
+
+![associação entre dois objs](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/associa%C3%A7%C3%B5es.png?raw=true)
+
+------
+
+### Multiplicidade de papéis:
+
+#### Multiplicidade é a quantidade mínima e máxima de objetos que uma associação permite em cada um de seus papéis. Um exemplo é: um carro pode ter quantos donos? Uma pessoa pode ter quantos carros? Um carro só pode ter um dono e uma pessoa pode ter 0 ou mais carros.
+
+|   1    | exatamente 1 |
+| :----: | ------------ |
+|   2    | exatamente 2 |
+|  0..1  | 0 a um       |
+|  0..*  | 0 ou mais    |
+|   *    | 0 ou mais    |
+|  1..*  | 1 ou mais    |
+|  2..*  | 2 ou mais    |
+|  2..6  | de 2 a 6     |
+|  2,7   | 2 ou 7       |
+| 2,8..9 | 2 ou 8 a 9   |
+
+####
 
 
 
