@@ -46,7 +46,51 @@ Sessão 1: Introdução
 |  2,7   | 2 ou 7       |
 | 2,8..9 | 2 ou 8 a 9   |
 
-####
+#### Cada associação deve condizer com os conceitos a qual está ligada. Exemplo:
+
+### `1 carro pode ter quantos responsáveis?`
+
+### `1 pessoa pode ser responsável por quantos carros?`
+
+#### `Um carro pode ter somente um responsável, e uma pessoa pode ser responsável por 0 a um carro` exemplo:
+
+#### É uma associação é um para um, onde ambos os lados a associação máxima é 1.
+
+![um para um](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/um%20para%20um.png?raw=true)
+
+`1 carro pode ter quantos motoristas?`
+
+`1 pessoa pode dirigir quantos carros?`
+
+`1 carro pod ter 0 ou mais motoristas e uma pessoa pode dirigir um ou mais carros`
+
+### É uma associação muitos para muitos, porque em ambos conceitos o máximo são vários.
+
+![muitos para muitos](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/muitos%20para%20muitos.png?raw=true)
+
+#### Para descobrirmos as cardinalidades, devemos nos perguntar: Um conceito pode ter quantos do outro? E dessa forma temos nossa multiplicidade encontrada. 
+
+------
+
+## Associação Obrigatória ⚠️
+
+#### Uma associação obrigatória ocorre quando o conceito de multiplicidade mínima se dá maior que zero. O exemplo acima possui a associação de um carro com o dono é obrigatória. 
+
+## Conceito dependente⚠️
+
+#### Se dá quando o conceito possui pelo menos uma associação obrigatória. Ainda no exemplo acima, para um carro ser cadastrado, necessariamente precisa ter uma pessoa para cumprir o papel de dono, caso contrário o carro não pode ser cadastrado no sistema. Isto é um conceito dependente. Já um conceito independente é quando um conceito não depende de outro para existir, como uma pessoa no sistema, que pode ou não ser dona de um carro.
+
+## Associações múltiplas⚠️:
+
+#### Anteriormente vimos exemplos de situações diversas envolvendo os mesmos dois conceitos. Dessa forma. uma associação múltipla ocorre quando os mesmos conceitos possuem associações diferentes, como no exemplo a seguir:
+
+
+
+
+
+
+
+
 
 
 
