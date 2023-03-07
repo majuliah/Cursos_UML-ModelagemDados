@@ -84,6 +84,16 @@ Sessão 1: Introdução
 
 #### Anteriormente vimos exemplos de situações diversas envolvendo os mesmos dois conceitos. Dessa forma. uma associação múltipla ocorre quando os mesmos conceitos possuem associações diferentes, como no exemplo a seguir:
 
+![associação múltipla](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/associa%C3%A7%C3%A3oMultipla.png?raw=true)
+
+## Auto-Associação⚠️:
+
+#### Uma autoassociação se dá quando um mesmo conceito se relaciona consigo mesmo.
+
+![autoassociação](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/autoassocia%C3%A7%C3%A3o.png?raw=true)
+
+## Exercícios:
+
 
 
 
