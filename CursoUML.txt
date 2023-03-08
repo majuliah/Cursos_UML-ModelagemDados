@@ -96,7 +96,7 @@ Sessão 1: Introdução
 
 Exercício 1:
 
-
+![exercicio1 resolvido](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/exercicio1.png?raw=true)
 
 
 
