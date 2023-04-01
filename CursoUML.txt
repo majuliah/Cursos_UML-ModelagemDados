@@ -100,6 +100,14 @@ Exercício 1:
 
 
 
+## Associações todo-parte🐰:
+
+#### Quando um conceito é parte de outro que representa um todo. Desenhamos um diamante no lado do todo. 
+
+#### Agregação: O conceito que é a parte não é exclusivo e pode ser utilizado mais vezes. Ex.: Carro e pneu, diamante fica do lado do carro. Diamante branco, quando não é exclusivo.
+
+#### Composição: Quando o conceito parte é exclusivo e somente pode ser aplicado a um único conceito. Ex.: Estado e cidade. Diamante fica do lado do estado. Diamante preto, significa que é exclusivo. Como é uma relação exclusiva, a multiplicidade no lado do diamante sempre vai ser 1 ou 0..1.
+
 
 
 
