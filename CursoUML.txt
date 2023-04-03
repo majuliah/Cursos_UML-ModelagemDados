@@ -106,13 +106,13 @@ Exercício 1:
 
 #### Agregação: O conceito que é a parte não é exclusivo e pode ser utilizado mais vezes. Ex.: Carro e pneu, diamante fica do lado do carro. Diamante branco, quando não é exclusivo.
 
-#### Composição: Quando o conceito parte é exclusivo e somente pode ser aplicado a um único conceito. Ex.: Estado e cidade. Diamante fica do lado do estado. Diamante preto, significa que é exclusivo. Como é uma relação exclusiva, a multiplicidade no lado do diamante sempre vai ser 1 ou 0..1.
+![](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/associa%C3%A7%C3%A3o%20agrega%C3%A7%C3%A3o.png?raw=true)
 
+#### Composição: Quando o conceito parte é exclusivo e somente pode ser aplicado a um único conceito. Ex.: Estado e cidade. Diamante fica do lado do estado. Diamante preto, significa que é exclusivo. Como é uma relação exclusiva, a multiplicidade no lado do diamante sempre vai ser 1 ou 0..1. Só é usado quando algo é parte de outra, um exemplo é carro e pessoa, um carro em um sistema precisa de um dono, e se apagarmos a pessoa, o carro fica sem dono. Mas isso não é uma composição porque carro não é uma pessoa e não faz parte de uma pessoa. 
 
+![](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/associa%C3%A7%C3%A3o%20composi%C3%A7%C3%A3o.png?raw=true)
 
-
-
-
+![](https://github.com/majuliah/Cursos_UML-ModelagemDados/blob/main/imgs/composi%C3%A7%C3%A3o%20errada.png?raw=true)
 
   
 
