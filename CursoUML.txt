@@ -116,6 +116,14 @@ Exercício 1:
 
   
 
+## Herança, Enumerações e Tipos Primitivos
+
+#### Enumeração: Identificar os valores possíveis de um conceito pelo número. Deve ser representado por um diagrama a parte. É um meio termo entre conceito e atributo porque quando for representado no diagrama, será como se representa um atributo.
+
+#### Tipos Primitivos: Devido a sua simplicidade não deve ser modelado como um conceito comum no diagrama. Tipo simples estruturado que não possui um ID por exemplo. 
+
+
+
 
 
 
