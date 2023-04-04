@@ -122,6 +122,10 @@ Exercício 1:
 
 #### Tipos Primitivos: Devido a sua simplicidade não deve ser modelado como um conceito comum no diagrama. Tipo simples estruturado que não possui um ID por exemplo. 
 
+#### Herança: Relação é um, generalização/ especialização, superclasse/ subclasse, adição de elementos nas subclasses, não é possível remover elementos, é uma associação de classes e não de objetos.
+
+
+
 
 
 
