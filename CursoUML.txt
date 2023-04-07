@@ -128,7 +128,7 @@ Exercício 1:
 
 #### Exercício resolvido 🧮
 
-- Uma locadora de carros deseja fazer um sistema para armazenar as informações das locações que os clientes fazem. A locadora possui diversas sedes, sendo que cada sede possui um código e uma localidade, sendo que uma localidade é armazenada internamente por dois números de ponto flutuante (exemplo: a localidade 18º5604.4W)...
+Curso finalizado
 
 
 
